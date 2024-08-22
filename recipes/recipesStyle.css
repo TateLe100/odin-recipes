@@ -23,11 +23,21 @@ h1 {
   padding: 20px;
 }
 main {
-  width: 900px;
+  width: 800px;
   margin: auto;
 }
 img {
   border-radius: 40px;
-  width: 900px;
+  width: 800px;
   margin: auto;
+}
+.box-header {
+  /* border: 1px black solid; */
+  font-size: 30px;
+}
+.description {
+  border: 1px black solid;
+  padding: 12px;
+  text-align: center;
+  padding-bottom: 24px;
 }
